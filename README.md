@@ -10,3 +10,5 @@
 ## Submission
 
 Submit completed Colab notebook showing generated output.
+
+Andrew: I tried running the Colab twice and my project crashed in the training after hours of training. 
