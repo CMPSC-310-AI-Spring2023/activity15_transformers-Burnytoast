@@ -12,3 +12,7 @@
 Submit completed Colab notebook showing generated output.
 
 Andrew: I tried running the Colab twice and my project crashed in the training after hours of training. 
+
+Data: The data in this sense is natural language as we understand it. The computer could have a difficult time making sense of our way of speaking, as the way we derive meaning isn't easily injected into an algorithm that can just churn out those results. We have a deep, intricate understanding of verbigae, possession, the items that these objects act on (Direct Objects).
+
+Preprocessing & transformer: Using the transformers, the algorithm is able to make parallel relations between points in the data, making it more "efficient" in a sense than CNN or RNN. RNNs and CNNs can't run things sequentially like transformers can, making them ideal for natural language processing.
